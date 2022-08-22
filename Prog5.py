@@ -1,0 +1,7 @@
+tuple1 = (10, "HELLO", "My course", 12.345)
+print(tuple1[2])
+print(tuple1[0])
+print(tuple1[0:2])
+print(tuple1[2:])
+print(tuple1*4)
+print(tuple1+tuple1)

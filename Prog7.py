@@ -1,0 +1,10 @@
+set1 = set()
+set2 = { 5, "Vardhini", "Prathyusha", 9.856}
+print(set1)
+print(set2)
+set2.add(20)
+print(set2)
+set2.remove(9.856)
+print(set2)
+set2.clear()
+print(set2)
